@@ -15,4 +15,4 @@ Projeto com o objetivo de gerar um sistema bancário utilizando a linguagem Pyth
 
 ---
 
-⌨️ com 💜 por [Nicolas Figueira]
+⌨️ com 💜 por <strong>Nicolas Figueira</strong>
