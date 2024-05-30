@@ -5,7 +5,7 @@ Projeto com o objetivo de gerar um sistema bancário utilizando a linguagem Pyth
 
 <p>
     <a 
-        href="www.linkedin.com/in/nicolasfigueira">
+        href="www.linkedin.com/in/nicolasfigueira/">
         LinkedIn
     </a>
    
